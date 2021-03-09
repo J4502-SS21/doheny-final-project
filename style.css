@@ -1,0 +1,18 @@
+body {
+  background: rgb(0, 28, 63);
+  text-align: center;
+  color: white;
+  margin: 0;
+  width: 100%;
+  padding-bottom: 200px;
+  font-family: 'Frank Ruhl Libre', serif;
+}
+
+nav {
+  color: black;
+  background: rgb (180, 210, 233);
+  width: 100%;
+  margin: 0;
+  display: inline-block;
+  font-family: 'Heebo', sans-serif;
+}
