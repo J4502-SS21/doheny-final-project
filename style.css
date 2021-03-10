@@ -35,7 +35,7 @@ p {
   margin: 7px auto;
 }
 
-nav {
+.nav_bar {
   list-style-type: none;
   width: 25%;
   float: center;
