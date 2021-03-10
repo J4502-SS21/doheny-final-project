@@ -10,9 +10,21 @@ body {
 
 nav {
   color: black;
-  background: rgb (180, 210, 233);
+  background: rgb(180, 210, 233);
   width: 100%;
   margin: 0;
   display: inline-block;
   font-family: 'Heebo', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;
+}
+
+a {
+  color: rgb(180, 210, 233);
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
+  text-transform: uppercase;
 }
