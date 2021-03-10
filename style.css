@@ -19,6 +19,7 @@ nav {
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
+  font-size: 27px;
 }
 
 a {
@@ -36,9 +37,6 @@ p {
 
 .nav_bar {
   list-style-type: none;
-}
-
-ul {
   width: 25%;
   float: left;
   margin: 20px auto;
