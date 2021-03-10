@@ -35,17 +35,12 @@ p {
   margin: 7px auto;
 }
 
-ul {
+.nav_bar ul {
   list-style-type: none;
 }
 
-li {
+.nav_bar li {
   width: 25%;
   float: left;
   margin: 20px auto;
-}
-
-.news_orgs li {
-  list-style-type: circle;
-  width: 33%;
 }
