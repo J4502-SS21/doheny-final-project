@@ -47,5 +47,5 @@ li {
 
 .news_orgs li {
   list-style-type: circle;
-  width: auto;
+  width: 33%;
 }
