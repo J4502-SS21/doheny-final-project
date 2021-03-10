@@ -38,6 +38,6 @@ p {
 nav {
   list-style-type: none;
   width: 25%;
-  float: left;
-  margin: auto;
+  float: center;
+  margin: 20px auto;
 }
