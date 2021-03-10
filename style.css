@@ -38,7 +38,7 @@ p {
   list-style-type: none;
 }
 
-li {
+ul {
   width: 25%;
   float: left;
   margin: 20px auto;
