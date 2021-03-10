@@ -44,3 +44,8 @@ li {
   float: left;
   margin: 20px auto;
 }
+
+.news_orgs li {
+  list-style-type: circle;
+  width: auto;
+}
