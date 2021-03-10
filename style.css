@@ -17,7 +17,12 @@ nav {
   font-family: 'Heebo', sans-serif;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1 {
+  font-weight: bold;
+  font-size: 26px;
+}
+
+h2, h3, h4, h5, h6 {
   font-weight: bold;
   font-size: 22px;
 }
@@ -55,4 +60,8 @@ ul {
   background-color: rgb(91, 94, 92);
   margin-right: 25px auto;
   margin-left: 25px auto;
+}
+
+.spotlight {
+  color: rgb(91, 94, 92);
 }
