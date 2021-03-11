@@ -68,12 +68,3 @@ ul {
 .spotlight {
   color: rgb(91, 94, 92);
 }
-
-@media (max-width: 600px) {
-
-.nav_bar li {
-    width: 100%;
-    float: left;
-  }
-
-}
