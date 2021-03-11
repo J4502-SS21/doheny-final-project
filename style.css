@@ -70,3 +70,23 @@ ul {
 .spotlight {
   color: rgb(91, 94, 92);
 }
+
+.first_example {
+  background-color: rgb(91, 94, 92);
+  display: inline-block;
+}
+
+.second_example {
+  background-color: rgb(91, 94, 92);
+  display: inline-block;
+}
+
+.third_example {
+  background-color: rgb(91, 94, 92);
+  display: inline-block;
+}
+
+.fourth_example {
+  background-color: rgb(91, 94, 92);
+  display: inline-block;
+}
