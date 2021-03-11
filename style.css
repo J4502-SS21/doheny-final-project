@@ -38,6 +38,7 @@ a {
 p {
   font-size: 16px;
   margin: 25px 50px;
+  display: block;
 }
 
 ol {
@@ -57,6 +58,8 @@ ul {
 .data {
   background-color: rgb(91, 94, 92);
   margin: 25px 50px;
+  text-align: center;
+  padding: 5px;
 }
 
 .spotlight {
