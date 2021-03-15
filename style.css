@@ -51,7 +51,6 @@ ul {
 
 .nav_bar li {
   width: 25%;
-  float: left;
   margin: 20px auto;
 }
 
@@ -63,6 +62,15 @@ ul {
   margin: 25px 50px 30px 50px;
 }
 
-.spotlight {
-  color: rgb(91, 94, 92);
+.nav_bar {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  align-items: center;
+  align-content: space-between;
+}
+
+.item {
+  flex-grow: 1;
+  margin: auto;
 }
