@@ -71,6 +71,8 @@ ul {
 }
 
 .item {
+  width: 25%;
+  margin: 20px auto;
   flex-grow: 1;
   margin: auto;
 }
