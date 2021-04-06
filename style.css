@@ -76,3 +76,7 @@ ul {
   flex-grow: 1;
   margin: auto;
 }
+
+.grey_header {
+  color: rgb(91, 94, 92);
+}
