@@ -67,12 +67,6 @@ ul {
   margin: 25px 50px 30px 50px;
 }
 
-@media (max-width: 600px) {
-
-  .nav_bar li {
-    width: 100%;
-  }
-
 .nav_bar {
   display: flex;
   flex-flow: row wrap;
@@ -87,3 +81,9 @@ ul {
   flex-grow: 1;
   margin: auto;
 }
+
+@media (max-width: 600px) {
+
+  .nav_bar li {
+    width: 100%;
+  }
