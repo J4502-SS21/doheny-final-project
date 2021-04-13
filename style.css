@@ -67,14 +67,6 @@ ul {
   list-style-type: none;
 }
 
-.data {
-  background-color: rgb(91, 94, 92);
-  text-align: center;
-  padding: 5px;
-  display: block;
-  margin: 25px 50px 30px 50px;
-}
-
 .nav_bar {
   display: flex;
   flex-flow: row wrap;
