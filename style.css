@@ -15,6 +15,7 @@ nav {
   margin: 0;
   display: inline-block;
   font-family: 'Heebo', sans-serif;
+  box-shadow: 1px 1px 15px white;
 }
 
 .nav_bar li {
