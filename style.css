@@ -15,7 +15,6 @@ nav {
   margin: 0;
   display: inline-block;
   font-family: 'Heebo', sans-serif;
-  box-shadow: 1px 1px 15px white;
 }
 
 .nav_bar li {
@@ -61,7 +60,7 @@ img {
   border: 0;
   margin: 20px auto;
   width: 100%;
-  max-width: 500px;
+  max-width: 600px;
   min-width: 200px;
 }
 
@@ -75,8 +74,8 @@ ul {
 
 .aboutme {
   background: rgb(91, 94, 92);
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
   box-shadow: 1px 1px 15px white;
 }
 
